@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "eslint.format.enable": true,
+    "eslint.enable": false
+}

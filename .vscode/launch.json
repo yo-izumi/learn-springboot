@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LearnSpringbootApplication<learn-springboot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "izm.example.learnspringboot.LearnSpringbootApplication",
+            "projectName": "learn-springboot",
+            "args": ""
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/frontend"
+        }
+    ]
+}
